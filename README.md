@@ -31,4 +31,4 @@ The program reads from the file "byte_file.m" that contains one instruction per 
 ***
 
 ### Autor ✒️
-* [Diego Morey](https://github.com/DAlons27)
+* [Giuliano Flores](https://github.com/mrgiulls)
